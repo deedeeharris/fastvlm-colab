@@ -14,7 +14,9 @@ This repository contains a Google Colab notebook for demonstrating **FastVLM-0.5
 
 1. **Open in Colab:** Click the "Open in Colab" badge below to launch the notebook.
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deedeeharris/fastvlm-colab/blob/main/FastVLM_0_5B_Local_Image_Prediction_COLAB.ipynb){target="_blank"}
+   <a href="https://colab.research.google.com/github/deedeeharris/fastvlm-colab/blob/main/FastVLM_0_5B_Local_Image_Prediction_COLAB.ipynb" target="_blank">
+     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+   </a>
    
 3. **Run Setup:** Execute the "Setup" cells to install dependencies and load the model.
    *(Optional: Enable GPU for faster processing via `Runtime > Change runtime type > Hardware accelerator > GPU`)*
