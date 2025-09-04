@@ -14,16 +14,16 @@ This repository contains a Google Colab notebook for demonstrating **FastVLM-0.5
 
 1. **Open in Colab:** Click the "Open in Colab" badge below to launch the notebook.
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deedeeharris/fastvlm-colab/blob/main/FastVLM_0_5B_Local_Image_Prediction_COLAB.ipynb)
-
-2. **Run Setup:** Execute the "Setup" cells to install dependencies and load the model.
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deedeeharris/fastvlm-colab/blob/main/FastVLM_0_5B_Local_Image_Prediction_COLAB.ipynb){target="_blank"}
+   
+3. **Run Setup:** Execute the "Setup" cells to install dependencies and load the model.
    *(Optional: Enable GPU for faster processing via `Runtime > Change runtime type > Hardware accelerator > GPU`)*
 
-3. **Upload Image & Prompt:** Use the interactive widgets to:
+4. **Upload Image & Prompt:** Use the interactive widgets to:
    - Enter your desired prompt (e.g., "Describe this image," "What is happening here?").
    - Click "Upload Image & Run" to select an image from your local machine.
 
-4. **View Results:** The generated caption or answer will be displayed along with the processing time.
+5. **View Results:** The generated caption or answer will be displayed along with the processing time.
 
 ## Example Usage
 
