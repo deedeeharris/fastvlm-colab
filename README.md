@@ -26,11 +26,3 @@ This repository contains a Google Colab notebook for demonstrating **FastVLM-0.5
    - Click "Upload Image & Run" to select an image from your local machine.
 
 5. **View Results:** The generated caption or answer will be displayed along with the processing time.
-
-## Example Usage
-
-Here's an example of what you can expect:
-
-**Prompt:** "What does this image show?"
-
-**Generated Caption:** "A person is riding a bicycle on a city street."
